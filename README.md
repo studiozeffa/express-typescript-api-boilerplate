@@ -38,6 +38,10 @@ The boilerplate comes with [`tslint`](https://palantir.github.io/tslint/) and [`
 
 If you'd like to setup your editor to check for tslint issues and/or format your code with prettier automatically, please refer to your editor's documentation. We prefer [VSCode](https://code.visualstudio.com).
 
+## Deployment
+
+Out of the box, this boilerplate supports deployment to Heroku. Follow the instructions [on the Heroku dev center](https://devcenter.heroku.com/articles/git).
+
 ## Troubleshooting
 
 ### Code is not being formatted on commit
